@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "KFC",
+  "base_artist": "ピーナッツくん",
+  "createdAt": "2026-03-08T10:55:26.759523Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Panic Attack in My Local KFC",
+      "artist": "Ollie MN",
+      "has_synced": true,
+      "path": "select/01_Panic_Attack_in_My_Local_KFC_Ollie_MN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "KFC",
+      "artist": "Otsochodzi",
+      "has_synced": true,
+      "path": "select/02_KFC_Otsochodzi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "KFC",
+      "artist": "Glorb feat. Dankton & The Notorious P.A.T.",
+      "has_synced": true,
+      "path": "select/03_KFC_Glorb_feat._Dankton_&_The_Notorious_P.A.T..lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kfc Moonbeam",
+      "artist": "ElyOtto",
+      "has_synced": true,
+      "path": "select/04_Kfc_Moonbeam_ElyOtto.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "KFC",
+      "artist": "Glorb, Dankton, The Notorious P.A.T.",
+      "has_synced": true,
+      "path": "select/05_KFC_Glorb,_Dankton,_The_Notorious_P.A.T..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "KFC (Waiting for Me)",
+      "artist": "Hot Dad",
+      "has_synced": false,
+      "path": "select/06_KFC_(Waiting_for_Me)_Hot_Dad.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "KFC",
+      "artist": "Glorb",
+      "has_synced": true,
+      "path": "select/07_KFC_Glorb.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "KFC",
+      "artist": "Dosseh",
+      "has_synced": true,
+      "path": "select/08_KFC_Dosseh.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "KFC",
+      "artist": "Glorb",
+      "has_synced": true,
+      "path": "select/09_KFC_Glorb.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "KFC GOD",
+      "artist": "KFC Murder Chicks",
+      "has_synced": false,
+      "path": "select/10_KFC_GOD_KFC_Murder_Chicks.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "KFC",
+      "artist": "Crazy Point",
+      "has_synced": false,
+      "path": "select/11_KFC_Crazy_Point.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The KFC Song",
+      "artist": "Kim Bell",
+      "has_synced": false,
+      "path": "select/12_The_KFC_Song_Kim_Bell.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "KFC",
+      "artist": "Strong Black",
+      "has_synced": false,
+      "path": "select/13_KFC_Strong_Black.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Another Day (kfc)",
+      "artist": "CMAT",
+      "has_synced": true,
+      "path": "select/14_Another_Day_(kfc)_CMAT.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "THE KFC NATIONAL ANTHEM",
+      "artist": "mistyyixx",
+      "has_synced": true,
+      "path": "select/15_THE_KFC_NATIONAL_ANTHEM_mistyyixx.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ตัวปลอม (เพลงประกอบโฆษณา KFC)",
+      "artist": "Lula",
+      "has_synced": false,
+      "path": "select/16_ตัวปลอม_(เพลงประกอบโฆษณา_KFC)_Lula.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "ตัวปลอม (เพลงประกอบโฆษณา KFC)",
+      "artist": "Potato",
+      "has_synced": true,
+      "path": "select/17_ตัวปลอม_(เพลงประกอบโฆษณา_KFC)_Potato.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "KFC GOD",
+      "artist": "KFC Murder Chicks feat. VOIDDWELLER",
+      "has_synced": false,
+      "path": "select/18_KFC_GOD_KFC_Murder_Chicks_feat._VOIDDWELLER.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KFC",
+      "artist": "ピーナッツくん",
+      "has_synced": false,
+      "path": "select/pl_01_KFC_ピーナッツくん.txt"
+    }
+  ]
+}
